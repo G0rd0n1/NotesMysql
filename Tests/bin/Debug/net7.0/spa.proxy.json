@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44422",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "/Users/gordondindi/Projects/HelloNet/HelloNet/ClientApp/",
+"MaxTimeoutInSeconds": "120"
+}
+}
